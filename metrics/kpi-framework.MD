@@ -118,7 +118,7 @@ This approach ensures the program remains effective, credible, and aligned with 
 
 ---
 
-## Metrics We Intentionally Avoid in Early Phases
+## Metrics to Intentionally Avoid in Early Phases
 
 The following metrics are deliberately deprioritized during program launch. They create misleading incentives and obscure real signal.
 
