@@ -1,6 +1,6 @@
 # Security Champions KPI Framework
 
-## BLUF
+## TL/DR
 
 In the first 60 days, measure **trust and engagement.**
 
